@@ -1,12 +1,12 @@
 %define		module		reversion
 Summary:	Flexible Version Control for Django
 Name:		python-django_reversion
-Version:	1.1.1
+Version:	1.3.1
 Release:	1
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://django-reversion.googlecode.com/files/django-%{module}-%{version}.tar.gz
-# Source0-md5:	6e21ed1a07ea0ff7d2c43537ba43243a
+# Source0-md5:	2d1cf38ac0da500cb776394499f5998e
 URL:		http://code.google.com/p/django-reversion/
 BuildRequires:	python-devel
 BuildRequires:	rpm-pythonprov
